@@ -8,7 +8,7 @@ public class NegativeOrPositive {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.print("Enter the number:");
-		int number = scan.nextInt();
+		int number = scan.nextInt();//Get the user input
 		
 		if(number>=0) {
 			System.out.println("Given number is positive");
