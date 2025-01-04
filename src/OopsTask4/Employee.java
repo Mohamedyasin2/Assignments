@@ -1,4 +1,4 @@
-package com.app.OopsTask4;
+package OopsTask4;
 
 public class Employee extends Person1 {
 	

@@ -1,4 +1,4 @@
-package com.app.Oops.task3;
+package OopsTask3;
 
 public class Account {
 	

@@ -1,4 +1,4 @@
-package com.app.OopsTask4;
+package OopsTask4;
 
 // This is task question number 4. 
 
