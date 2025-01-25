@@ -1,4 +1,4 @@
-package JavaAdvance;
+package GuviTaskJavaAdvance;
 
 import java.util.List;
 import java.util.stream.Collectors;
